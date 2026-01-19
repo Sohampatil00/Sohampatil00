@@ -1,6 +1,5 @@
-# Soham Patil 👋
+# Soham Patil
 
-![Banner](https://via.placeholder.com/1200x400/0D1117/FFFFFF?text=Soham+Patil+%7C+Computer+Engineering+Student+%7C+Tech+Enthusiast)
 
 ## 🎓 About Me
 
@@ -29,20 +28,15 @@ I'm a sophomore **Computer Engineering** student at **JSPM's Rajarshi Shahu Coll
 
 ## 🛠️ Featured Projects
 
-### 🎯 **Wordle-Style Python Game**
-Interactive word guessing game built with Python. A modern CLI implementation of the popular Wordle game with additional features.
-- **Tech:** Python, CLI
-- [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sohampatilllll/wordle-game)
-
 ### 🔄 **ShareCycle**
 Peer-to-peer idle asset rental platform designed to optimize resource utilization.
 - **Tech:** Web Development, Blockchain
-- [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sohampatilllll/sharecycle)
+- [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sohampatil00/Share.Cycle)
 
 ### 🌳 **Array to Binary Tree Visualizer**
 Interactive visualization tool that converts arrays into binary tree representations.
 - **Tech:** Python, Data Structures, Visualization
-- [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sohampatilllll/binary-tree-visualizer)
+- [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sohampatil00/ATBV-Array-to-BinaryTree-Visualizer)
 
 ---
 
@@ -54,6 +48,30 @@ Interactive visualization tool that converts arrays into binary tree representat
 | ![NPTEL](https://img.shields.io/badge/NPTEL-FF6F61?style=flat-square&logo=nptel&logoColor=white) | **Python for Data Science** | NPTEL |
 
 ---
+## 🏆 Competitive Programming Profiles
+
+<div align="center">
+
+### **LeetCode**
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/codesoham/)
+
+### **Codeforces**
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/edu.sohampatil)
+
+### **CodeChef**
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/devsoham)
+
+</div>
+
+### 📊 CP Progress Track
+| Platform | Problems Solved | Rating | Rank | Profile |
+|----------|-----------------|--------|------|---------|
+| **LeetCode** | 150 | 1600 | Top 15% | [Link](https://leetcode.com/u/codesoham/) |
+| **Codeforces** | 100 | 1400 | Pupil | [Link](https://codeforces.com/profile/code.sohampatil) |
+| **CodeChef** | 80 | 1800 | 3⭐ | [Link](https://www.codechef.com/users/devsoham) |
+| **Total** | **330** | - | - | - |
+
+---
 
 ## 🌱 Current Role
 
@@ -63,14 +81,6 @@ Interactive visualization tool that converts arrays into binary tree representat
 - Promoting community-driven learning
 - Organizing blockchain-focused workshops and events
 - Mentoring peers in blockchain technology
-
----
-
-## 📊 GitHub Stats
-
-![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohampatilllll&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohampatilllll&layout=compact&theme=radical)
 
 ---
 
@@ -87,11 +97,20 @@ Interactive visualization tool that converts arrays into binary tree representat
 
 ---
 
-## 📈 Contribution Graph
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sohampatilllll&theme=github-dark)
-
----
 
 **Visitor Count**  
 ![Visitor Count](https://komarev.com/ghpvc/?username=sohampatilllll&style=flat-square&color=blue)
+
+---
+
+<div align="center">
+  
+## 🏁 Competitive Programming Journey
+
+> "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
+
+![CP Banner](https://via.placeholder.com/800x100/2D3748/FFFFFF?text=Keep+Coding%2C+Keep+Learning%2C+Keep+Growing)
+
+</div>
+
+---
