@@ -63,14 +63,6 @@ Interactive visualization tool that converts arrays into binary tree representat
 
 </div>
 
-### 📊 CP Progress Track
-| Platform | Problems Solved | Rating | Rank | Profile |
-|----------|-----------------|--------|------|---------|
-| **LeetCode** | 150 | 1600 | Top 15% | [Link](https://leetcode.com/u/codesoham/) |
-| **Codeforces** | 100 | 1400 | Pupil | [Link](https://codeforces.com/profile/code.sohampatil) |
-| **CodeChef** | 80 | 1800 | 3⭐ | [Link](https://www.codechef.com/users/devsoham) |
-| **Total** | **330** | - | - | - |
-
 ---
 
 ## 🌱 Current Role
